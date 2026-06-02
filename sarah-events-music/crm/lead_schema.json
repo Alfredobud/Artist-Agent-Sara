@@ -1,0 +1,28 @@
+{
+  "lead_id": "string unique id",
+  "name": "string",
+  "email": "string",
+  "phone": "string",
+  "event_type": "Wedding | Private Event | Corporate Event | Other",
+  "event_date": "YYYY-MM-DD",
+  "venue": "string",
+  "location": "string",
+  "guest_count": "number or string range",
+  "desired_package": "Ceremony Signature | Ceremony + Cocktail Hour | Full Event Experience | Private & Corporate Events",
+  "budget_range": "string",
+  "source": "Website | Instagram | TikTok | YouTube | Planner | Venue | Referral | Other",
+  "status": [
+    "New Lead",
+    "Contacted",
+    "Waiting Reply",
+    "Proposal Sent",
+    "Follow-up Needed",
+    "Closed Won",
+    "Closed Lost",
+    "Not a Fit"
+  ],
+  "next_follow_up_date": "YYYY-MM-DD or null",
+  "notes": "string",
+  "created_at": "ISO 8601 timestamp",
+  "updated_at": "ISO 8601 timestamp"
+}
