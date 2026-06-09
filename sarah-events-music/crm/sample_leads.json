@@ -1,0 +1,21 @@
+[
+  {
+    "lead_id": "lead_001",
+    "name": "Emily Carter",
+    "email": "emily@example.com",
+    "phone": "704-555-0134",
+    "event_type": "Wedding",
+    "event_date": "2026-10-17",
+    "venue": "The Collector's Room",
+    "location": "Charlotte, NC",
+    "guest_count": 120,
+    "desired_package": "Cocktail Hour + Reception",
+    "budget_range": "$1,500-$2,500",
+    "source": "Website",
+    "status": "New Lead",
+    "next_follow_up_date": "2026-06-04",
+    "notes": "Interested in live vocals, cover songs, and band energy for cocktail hour and reception.",
+    "created_at": "2026-06-02T14:00:00Z",
+    "updated_at": "2026-06-02T14:00:00Z"
+  }
+]
