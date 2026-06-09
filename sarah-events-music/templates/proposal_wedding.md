@@ -1,8 +1,8 @@
-# Wedding Proposal Template
+# Wedding Reception Proposal Template
 
 Hi [Name],
 
-Thank you for sharing the details of your wedding. Based on your vision for [Ceremony/Cocktail Hour/Reception Moment] at [Venue] on [Event Date], Sarah would be honored to help create a warm, elegant, and unforgettable musical experience.
+Thank you for sharing the details of your wedding. Based on your vision for [Cocktail Hour/Reception/First Dance/Party Moment] at [Venue] on [Event Date], Sarah would be honored to help create a warm, energetic, and unforgettable live music experience with vocals, covers, and band-style performance.
 
 ## Event Summary
 
@@ -10,7 +10,7 @@ Thank you for sharing the details of your wedding. Based on your vision for [Cer
 - Date: [Event Date]
 - Venue / Location: [Venue]
 - Guest Count: [Guest Count]
-- Musical Moments: [Processional, signing, recessional, cocktail hour, first dance, etc.]
+- Musical Moments: [Cocktail hour, first dance, dinner set, party set, dedications, guest singalong moments, etc.]
 
 ## Recommended Package
 
@@ -23,7 +23,7 @@ This package is recommended because [brief reason connected to the couple's visi
 - [Inclusion 1]
 - [Inclusion 2]
 - [Inclusion 3]
-- Personalized song planning
+- Custom cover setlist planning
 - Coordination with planner, DJ, or venue contact when needed
 
 ## Investment
@@ -43,7 +43,7 @@ A deposit of **[Deposit Amount or Percentage]** secures the date. The remaining 
 
 This proposal is valid through **[Proposal Expiration Date]**. Dates are secured only after agreement and deposit are complete.
 
-Sarah’s goal is to help create the soundtrack for one of the most meaningful days of your life — with live vocals that feel personal, emotional, and beautifully aligned with your ceremony.
+Sarah’s goal is to help create the soundtrack for the celebration after the wedding — with live vocals, recognizable covers, and band energy that keeps guests connected, singing, dancing, and remembering the night.
 
 Warmly,
 [Agent Name]

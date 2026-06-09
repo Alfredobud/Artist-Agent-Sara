@@ -1,17 +1,17 @@
 # Sarah Events Music
 
-**Sarah — Elegant live vocals for weddings, private events and unforgettable moments in Charlotte.**
+**Sarah — Live vocals and band energy for wedding receptions, private events and unforgettable celebrations in Charlotte.**
 
-This project is the first operational foundation for Sarah's transition from bar performances into a premium weddings and events brand in Charlotte, North Carolina.
+This project is the first operational foundation for Sarah's transition from bar performances into a premium wedding receptions and events brand in Charlotte, North Carolina.
 
 ## Goals
 
-1. Position Sarah as a professional live vocalist for weddings and events.
+1. Position Sarah as a professional live singer and band-front artist for receptions and events.
 2. Capture qualified leads through a simple, elegant website.
 3. Organize opportunities in a lightweight CRM structure.
 4. Respond to inquiries with polished templates and AI-assisted workflows.
 5. Generate consistent content for Instagram, TikTok, YouTube Shorts, and YouTube.
-6. Present clear service packages for ceremonies, cocktail hours, full experiences, private events, and corporate events.
+6. Present clear service packages for wedding receptions, cocktail hours, full celebrations, private parties, and corporate events.
 7. Build local authority across Charlotte, Lake Norman, Huntersville, Cornelius, Mooresville, Matthews, Ballantyne, Concord, and Fort Mill.
 
 ## Folder Structure

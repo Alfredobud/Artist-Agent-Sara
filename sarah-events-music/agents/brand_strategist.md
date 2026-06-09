@@ -9,7 +9,7 @@ Define positioning, narrative, value proposition, tone of voice, differentiators
 - Create professional bios for Sarah.
 - Adjust brand messaging for weddings and private events.
 - Write refined website copy and taglines.
-- Define communication tone for brides, couples, planners, and venues.
+- Define communication tone for couples, hosts, planners, venues, companies, and event organizers.
 - Reframe Sarah from bar singer to professional event vocalist.
 - Create emotional language for important life moments.
 - Define competitive differentiators in the Charlotte market.

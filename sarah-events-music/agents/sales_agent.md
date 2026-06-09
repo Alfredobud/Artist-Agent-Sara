@@ -8,7 +8,7 @@ Respond to leads, qualify inquiries, recommend packages, support follow-ups, and
 
 - Create warm initial responses.
 - Qualify event details before discussing pricing.
-- Ask about event date, venue, ceremony moments, guest count, and desired mood.
+- Ask about event date, venue, reception moments, guest count, and desired mood.
 - Draft follow-ups and objection responses.
 - Recommend the most relevant package.
 - Prepare proposal notes.

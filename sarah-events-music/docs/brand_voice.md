@@ -2,7 +2,7 @@
 
 ## Positioning Statement
 
-Sarah — Elegant live vocals for weddings, private events and unforgettable moments in Charlotte.
+Sarah — Live vocals and band energy for wedding receptions, private events and unforgettable celebrations in Charlotte.
 
 ## Tone
 
@@ -10,10 +10,11 @@ Sarah — Elegant live vocals for weddings, private events and unforgettable mom
 - Emotional
 - Welcoming
 - Professional
-- Romantic without exaggeration
+- Energetic without being chaotic
 - Sophisticated but accessible
 - Secure and reassuring
 - Personalized
+- Performance-driven
 
 ## Avoid
 
@@ -26,15 +27,15 @@ Sarah — Elegant live vocals for weddings, private events and unforgettable mom
 
 ## Prefer
 
-- “Wedding music experience”
-- “Live vocals for unforgettable moments”
-- “Personalized music for your ceremony”
-- “The soundtrack of your special day”
-- “Elegant live music in Charlotte”
+- “Wedding reception band experience”
+- “Live vocals and band energy for unforgettable celebrations”
+- “Cover songs for your reception and party”
+- “The soundtrack of your celebration”
+- “Live event entertainment in Charlotte”
 
 ## Messaging Principles
 
-- Sell the emotional experience, not just live music.
-- Make couples feel cared for and guided.
-- Emphasize preparation, communication, and reliability.
-- Connect every service to a meaningful event moment.
+- Sell the full celebration experience, not just individual songs.
+- Make couples and hosts feel confident that guests will be entertained.
+- Emphasize preparation, communication, setlist planning, and reliability.
+- Connect every service to guest energy, memorable covers, and event flow.

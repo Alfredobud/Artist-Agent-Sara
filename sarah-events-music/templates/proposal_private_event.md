@@ -14,7 +14,7 @@ Thank you for considering Sarah for [Event Type]. Based on your plans for [Event
 
 ## Recommended Experience
 
-**Private & Corporate Events Package**
+**Private & Corporate Band Events Package**
 
 ## Included
 

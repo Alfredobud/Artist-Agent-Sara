@@ -12,7 +12,7 @@ Create strategic content ideas, scripts, hooks, captions, and calendars for Inst
 - Create clear calls to action.
 - Suggest songs and themes for videos.
 - Turn live performances into platform-ready content.
-- Adapt content for brides, couples, planners, venues, and local Charlotte audiences.
+- Adapt content for couples, hosts, planners, venues, companies, and local Charlotte audiences.
 
 ## Base Prompt
 

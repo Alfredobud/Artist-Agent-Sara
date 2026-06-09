@@ -15,7 +15,7 @@ Thank you for reaching out about live music for [Company/Event Name]. Sarah can 
 
 ## Recommended Package
 
-**Private & Corporate Events Package**
+**Private & Corporate Band Events Package**
 
 ## Included
 

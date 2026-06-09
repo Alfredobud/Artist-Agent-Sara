@@ -8,7 +8,7 @@
   "venue": "string",
   "location": "string",
   "guest_count": "number or string range",
-  "desired_package": "Ceremony Signature | Ceremony + Cocktail Hour | Full Event Experience | Private & Corporate Events",
+  "desired_package": "Wedding Reception Band Experience | Cocktail Hour + Reception | Full Celebration Experience | Private & Corporate Band Events",
   "budget_range": "string",
   "source": "Website | Instagram | TikTok | YouTube | Planner | Venue | Referral | Other",
   "status": [
